@@ -4,10 +4,25 @@
  ---
 Install `NodeJs` and `npm`
 
-### Setup  and Deployment
+### Setup
 ---
 
-- copy or clone repo, and do `npm install` or `yarn install`. 
+To build the examples locally, run:
+
+```
+npm install
+npm start
+```
+
+```
+yarn install
+yarn start
+```
+For build
+```
+yarn build
+npm run build
+```
 
 
 -  Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
