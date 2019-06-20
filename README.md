@@ -1,5 +1,11 @@
 # Weather-info-app
 
+### Demo & examples
+
+Live demo - https://sharp-curie-f048b5.netlify.com/
+
+`Allow Insecure content blocked`
+
 ### Prerequisites
  ---
 Install `NodeJs` and `npm`
