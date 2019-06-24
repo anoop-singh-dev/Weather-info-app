@@ -1,6 +1,6 @@
 # Weather-info-app
 
-### Demo & examples
+### Demo
 
 Live demo - https://sharp-curie-f048b5.netlify.com/
 
