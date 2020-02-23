@@ -8,7 +8,7 @@ Live demo - https://sharp-curie-f048b5.netlify.com/
 
 ### Prerequisites
  ---
-Install `NodeJs` and `npm`
+Install `NodeJs` and `npm`.
 
 ### Setup
 ---
