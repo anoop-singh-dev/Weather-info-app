@@ -13,7 +13,7 @@ Install `NodeJs` and `npm`.
 ### Setup
 ---
 
-To build the examples locally, run:
+To build examples locally, run:
 
 ```
 npm install
